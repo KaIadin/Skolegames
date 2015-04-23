@@ -1,2 +1,0 @@
-# Skolegames
-skole prosjekt
